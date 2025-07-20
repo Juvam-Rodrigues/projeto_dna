@@ -77,7 +77,7 @@
 <p>As sequências STR encontradas na amostra são destacadas entre colchetes <code>[]</code> e exibidas com cor usando códigos ANSI para facilitar a leitura.</p>
 <p><strong>Exemplo:</strong></p>
 <pre><code>[AGATAGATAGAT]AATGAATG[TATCTATCTATC]</code></pre>
-<p>Os colchetes e o conteúdo entre eles aparecem destacados em verde e amarelo, respectivamente, se seu terminal suportar ANSI.</p>
+<p>Os colchetes e o conteúdo entre eles aparecem destacados em verde se seu terminal suportar ANSI.</p>
 
 <h2>Colaboradores 🤝</h2>
 <ul>
