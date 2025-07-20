@@ -1,7 +1,7 @@
 <h1>Projeto DNA Profile 🧬</h1>
 
 <h2>Descrição 🤔</h2>
-<p>Este projeto consiste em um sistema em C++ para identificação de perfis genéticos (DNA) a partir de amostras e banco de dados. Ele realiza:</p>
+<p>Este projeto consiste em um sistema em C++ para identificação de perfis genéticos (DNA) a partir de amostras e banco de dados (um arquivo local). Ele realiza:</p>
 <ul>
     <li>Leitura e processamento de sequências STRs a partir de arquivos;</li>
     <li>Comparação entre amostras desconhecidas e um banco de dados;</li>
